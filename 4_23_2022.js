@@ -23,3 +23,13 @@
 // I kept trying to debug with a bet value of 0 (did not implement change bet function yet)
 // and I didn't get any log/message with status code 500 but it turns out 500 does not 
 // return anything as its a generic error response.
+
+
+
+// Language: English
+// Date: 4/23/2022
+// Path: 4_23_2022.js
+// Time: 5 min
+// Description: Saw a cool word on reddit: 
+// "frivolous: not having any serious purpose or value."
+// "frivolity: lack of seriousness; lightheartedness."
